@@ -1,9 +1,9 @@
 # Notatnik
-
-Clone this repo
-cd spa-webinar
-npm install
-Скопируйте etc/config.js.sample в etc/config.js
-npm run server
-npm run webpack-devserver
-Откройте http://localhost:8090 в браузере
+1)Zainstalować NodeJS, React, MongoDB i Express
+2)cd notatnik
+3)npm install
+4)babel-node server/app.js
+5)otwórz nowy terminal
+6)w nowym terminale wpisać 'cd notatnik'
+7)npm run webpack-devserver
+8)otwórz http://localhost:8090 w przeglądarce
